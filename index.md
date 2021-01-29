@@ -15,6 +15,8 @@ I wrote "about me", "career", and "interests" on this page as an example.
     * Platform
   * Java Web Application
     * Rest Api
+* 단국대학교 / Dankook Univ. (2013/03 ~ 2018/02)
+  * 컴퓨터과학 전공
 
 <br/>
 
