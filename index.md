@@ -13,7 +13,7 @@ naboong93@gmail.com
 * 우**소프트 (2018.04 ~ 재직중)
   * 제*항공 차세대 PSS 대응개발
     * 2021.02~2021.11
-    * 국내선 키오스크 백엔드 개발
+    * 국내선 셀프 체크인 키오스크 백엔드 개발
     * Java, Spring Framework, GraphQL, Mybatis, Oracle, Gitlab 협업
     * Swagger 문서를 통한 API 분석
     * 키오스크 운영에 필요한 데이터 Model 설계 및 Graph QL 전문 생성
@@ -21,7 +21,7 @@ naboong93@gmail.com
     * 2020.10~2021.01
     * CUSS (Common Use Self Service) 플랫폼 Rest API 서버 개발
     * Java, Spring boot, Mybatis, PostgreSQL, SVN 협업
-  * 하*에어 국내선 키오스크 [Link](https://www.hi-airlines.com/v/comn/contents/serviceinfo/93)
+  * 하*에어 국내선 셀프 체크인 키오스크 [Link](https://www.hi-airlines.com/v/comn/contents/serviceinfo/93)
     * 2020.06~2020.09
     * 프론트엔드 개발
     * Javascript, SVN 협업
